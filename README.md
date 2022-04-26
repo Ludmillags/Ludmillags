@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 ## Hello! I'm Ludmilla Gonçalves
 <div align="center">
   <a href="https://https://github.com/Ludmillags">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ludmillags&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludmillags&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ludmillags&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludmillags&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
