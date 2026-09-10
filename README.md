@@ -93,7 +93,7 @@ Mais do que demonstrar uma tecnologia isoladamente, procuro construir projetos q
 
 ## 🤝 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ludmilla_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmillags/)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Ludmilla_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmillags/)](https://www.linkedin.com/in/costalg/)
 
 ---
 
