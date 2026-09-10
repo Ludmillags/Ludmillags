@@ -55,7 +55,7 @@ Além dos projetos de dados e automação, desenvolvo **sites institucionais, la
 
 Essa frente complementa meu perfil técnico ao demonstrar capacidade de trabalhar desde a definição da solução e organização da informação até a construção da interface e publicação do projeto.
 
-**Competências:** Web Design · Front-end · HTML · CSS · JavaScript · UI/UX · Responsividade · Interfaces interativas
+**Competências:** Web Design · Front-end · HTML · CSS · UI/UX · Responsividade · Interfaces interativas
 
 Projetos web selecionados serão adicionados aqui à medida que forem organizados para apresentação técnica no GitHub.
 
@@ -68,7 +68,6 @@ Projetos web selecionados serão adicionados aqui à medida que forem organizado
 ![VBA](https://img.shields.io/badge/VBA-867DB1?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -93,7 +92,7 @@ Mais do que demonstrar uma tecnologia isoladamente, procuro construir projetos q
 
 ## 🤝 Contato
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Ludmilla_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmillags/)](https://www.linkedin.com/in/costalg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ludmilla_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costalg/)
 
 ---
 
